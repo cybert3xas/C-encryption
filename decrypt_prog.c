@@ -1,7 +1,7 @@
 /*
 @Jonathan Argumedo
 DATE: Semptember 24, 2017
-INFO: Program will let user generate a key to encypt a message, message 
+INFO: Program will let user generate a key to encrypt a message, message 
 gets saved into a txt file. User may decrypt the message as well
 UPDATE BY: (YOUR NAME GOES HERE)
 UPDATE DATE: August 13, 2018
